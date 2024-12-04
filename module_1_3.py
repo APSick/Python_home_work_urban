@@ -6,7 +6,7 @@ age = 20
 
 print(age)
 
-age = 21
+age = age + 3
 
 print(age)
 
