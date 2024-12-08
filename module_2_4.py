@@ -13,5 +13,5 @@ for i in range(quan):
         else:
             primes.append(i)
 
-print(primes)
-print(not_primes)
+print("primes:", primes)
+print("not_primes:", not_primes)
